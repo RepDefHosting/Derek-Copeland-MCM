@@ -1,14 +1,15 @@
 ---
 templateKey: profile-page
 pageSlug: /profile
-pageTitle: Profile
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+pageTitle: Derek Copeland
+metaDescription: "Previously, Mr. Copeland founded SilverRock Wealth Partners,
+  providing clients with tailored retirement and estate planning financial
+  strategies. "
 published: true
 schemaType: ProfilePage
-header: Client's Name
+header: Derek Copeland
 featuredImage:
-  src: /img/naturehero.png
+  src: /img/businesshero2.png
   alt: Hero Image
   caption: null
 connectWithMe: State
@@ -59,30 +60,10 @@ discoverConnectExplore: City
 longBiography_MD: |
   {{long_biography}}
 ---
-# H﻿eader 1
+As an experienced finance and real estate leader for over 20 years, Derek Copeland serves as Principal at MCM Partners. Derek Copeland manages the firm’s Commercial Real Estate Equity and Lending projects, connecting accredited investors with quality investment opportunities. His responsibilities include Investor Relations, Due Diligence, and overseeing Operations to drive strategic growth and investment success.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse finibus mauris quis nisi tristique, vel elementum mauris placerat. Etiam ante dui, lacinia at finibus eget, venenatis vitae nisi. Curabitur non est nec ex ullamcorper maximus sed ultricies ante. Morbi ligula ex, porta malesuada tincidunt vulputate, venenatis at diam. Integer pharetra tellus euismod, blandit elit at, vulputate orci. Cras vestibulum ante et nunc commodo, vitae efficitur diam mollis. Pellentesque in mattis est. Phasellus at ex nisl.
+Previously, Mr. Copeland founded SilverRock Wealth Partners, providing clients with tailored retirement and estate planning financial strategies. His earlier roles at UBS and Morgan Stanley involved managing client portfolios exceeding $150 million.
 
-## H﻿eader 2
+Beyond his professional work, Mr. Copeland is currently on the Board of Directors with the Charlotte Mecklenburg Police Foundation and the Steve Smith Family Foundation. Named the Leukemia and Lymphoma Society’s Man of the Year in 2014, he set a fundraising record for the organization. In his personal life, Mr. Copeland enjoys coaching youth baseball, traveling, duck hunting, and deep saltwater fishing.
 
-Morbi a suscipit turpis, ac maximus massa. Proin at elementum neque, eu mollis turpis. Sed vitae metus in lorem sollicitudin egestas. Phasellus faucibus sodales rhoncus. Nunc eu tempor magna. Curabitur pulvinar lacus sit amet justo congue faucibus. Nulla vulputate tincidunt ornare. Phasellus tristique sed nisl vel efficitur. Sed tristique augue bibendum velit malesuada, ac auctor nunc porttitor. Ut semper fringilla porttitor. Maecenas eu fermentum enim, eu posuere neque.
-
-### H﻿eader 3
-
-Mauris sapien purus, laoreet eget dui vel, pulvinar varius justo. Vivamus eget arcu non nisl imperdiet placerat. Donec nunc metus, consectetur id fermentum id, lobortis ut nisl. Duis in viverra libero, sed pulvinar justo. Donec ut sem aliquet, dictum nisl vitae, pretium felis. Vestibulum sapien metus, tincidunt a efficitur blandit, malesuada non tortor. Nam ultricies viverra suscipit. Maecenas at eros eget erat feugiat viverra in ut erat. Nulla vel tincidunt tortor.
-
-#### H﻿eader 4
-
-Phasellus est felis, semper nec efficitur vel, imperdiet id tellus. Duis vitae gravida ante. Nunc vel mollis mi. Donec in odio purus. Nam tempus ornare rutrum. Nulla eu imperdiet eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed luctus mi et semper pretium. Mauris ultricies leo eget blandit laoreet.
-
-##### H﻿eader 5
-
-Donec euismod eget enim id feugiat. Nullam at magna leo. Etiam convallis, massa in volutpat tincidunt, odio leo faucibus ipsum, eget ullamcorper tellus arcu ut leo. Sed convallis non quam ut aliquet. Etiam finibus urna vitae odio malesuada vestibulum. Phasellus mi magna, aliquet quis posuere nec, imperdiet a arcu. In hendrerit auctor felis, ac ultricies diam consequat at. Praesent scelerisque sagittis nunc ut condimentum. Morbi aliquet at nibh nec dictum. Etiam sodales velit risus, eu ultricies lectus ullamcorper et. Phasellus sit amet sapien eu turpis interdum vulputate eget et tortor. In sodales nisl a turpis mattis, id maximus elit cursus. Sed in eros sagittis, tincidunt massa ut, viverra diam.eade
-
-###### H﻿eader 6
-
-Curabitur mattis erat eu arcu scelerisque, vitae condimentum dolor malesuada. Maecenas laoreet leo vel sagittis aliquet. Phasellus lobortis et leo nec egestas. Quisque feugiat nisl quis neque ornare, sed placerat ligula volutpat. Maecenas sit amet scelerisque libero. Sed sit amet nulla quis justo rutrum blandit quis eget dui. Etiam id ipsum molestie, ultrices ligula a, laoreet lorem. Proin interdum porta tellus. Pellentesque ultricies, mi nec sollicitudin pharetra, lorem felis dignissim risus, sed lacinia leo nisl at neque. Morbi vitae massa a urna tempus pellentesque. Sed iaculis accumsan lorem, sit amet dictum ex tempus id. Praesent convallis consequat massa sit amet dictum. Ut et finibus nisl, et tincidunt ipsum. Fusce ex tellus, aliquam sed lacus eget, placerat interdum lorem. Suspendisse porta metus eu sapien dictum, a semper augue faucibus.
-
-Vestibulum non fermentum dui. Suspendisse malesuada viverra est, quis vulputate eros hendrerit eu. Curabitur in metus eget arcu auctor lobortis. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et elementum leo. Quisque malesuada porta ligula, quis venenatis dui cursus ac. In hac habitasse platea dictumst. Phasellus rutrum a tellus vel dictum. Ut vel ipsum non purus eleifend accumsan ut sed sapien. Suspendisse accumsan mi lacus, scelerisque pulvinar tortor imperdiet at. Praesent leo purus, commodo quis semper quis, dictum malesuada odio. Donec non tellus quis dui vulputate gravida. Proin a erat volutpat, blandit eros vitae, sodales ipsum. Nunc consequat sit amet nisi vel dictum.
-
-Duis lobortis fermentum metus, non blandit turpis porttitor vel. Aliquam mollis magna nec cursus interdum. Proin nec purus consectetur, blandit ligula et, pharetra velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi varius eros sit amet risus sollicitudin, laoreet hendrerit quam bibendum. Suspendisse eros metus, congue in euismod non, aliquam ac tellus. Nam id laoreet metus, et finibus massa. Cras sed nunc ac tellus sollicitudin aliquet. Sed at ante neque.
+Mr. Copeland earned a bachelor’s degree in Finance from the University of Florida, where he received the 1996 Outstanding Male Graduate and became a member of the University Hall of Fame.
