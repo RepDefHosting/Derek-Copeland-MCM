@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Derek Copeland
+jobTitle: Principal at MCM Partners
+location: Charlotte, NC US
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/derek-copeland-charlotte-nc-us.jpeg
+  alt: Derek Copeland - Principal at MCM Partners and Finance Expert
+siteUrl: https://www.about-derek-copeland.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/derekcopeland08/
     label: Visit
     show: true
   pinterest:
