@@ -60,7 +60,7 @@ discoverConnectExplore: City
 longBiography_MD: |
   {{long_biography}}
 ---
-As an experienced finance and real estate leader for over 20 years, Derek Copeland serves as Principal at MCM Partners. Derek Copeland manages the firm’s Commercial Real Estate Equity and Lending projects, connecting accredited investors with quality investment opportunities. His responsibilities include Investor Relations, Due Diligence, and overseeing Operations to drive strategic growth and investment success.
+As an experienced finance and real estate leader for over 20 years, Derek Copeland serves as Principal at Sentinel Grove Partners (formerly MCM Partners). Derek Copeland manages the firm’s Commercial Real Estate Equity and Lending projects, connecting accredited investors with quality investment opportunities. His responsibilities include Investor Relations, Due Diligence, and overseeing Operations to drive strategic growth and investment success.
 
 Previously, Mr. Copeland founded SilverRock Wealth Partners, providing clients with tailored retirement and estate planning financial strategies. His earlier roles at UBS and Morgan Stanley involved managing client portfolios exceeding $150 million.
 
