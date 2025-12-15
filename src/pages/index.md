@@ -17,7 +17,7 @@ featuredImage:
   caption: null
 header: Client Name
 metaDescription: As an experienced finance and real estate leader for over 20
-  years, Derek Copeland serves as Principal at MCM Partners.
+  years, Derek Copeland serves as Principal at Sentinel Grove Partners.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +32,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-As an experienced finance and real estate leader for over 20 years, Derek Copeland serves as Principal at MCM Partners. Derek Copeland manages the firm’s Commercial Real Estate Equity and Lending projects, connecting accredited investors with quality investment opportunities. His responsibilities include Investor Relations, Due Diligence, and overseeing Operations to drive strategic growth and investment success.
+As an experienced finance and real estate leader for over 20 years, Derek Copeland serves as Principal at Sentinel Grove Partners(formerly MCM Partners). Derek Copeland manages the firm’s Commercial Real Estate Equity and Lending projects, connecting accredited investors with quality investment opportunities. His responsibilities include Investor Relations, Due Diligence, and overseeing Operations to drive strategic growth and investment success.
