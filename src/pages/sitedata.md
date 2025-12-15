@@ -2,11 +2,11 @@
 templateKey: site-data
 published: true
 name: Derek Copeland
-jobTitle: Principal at MCM Partners
+jobTitle: Principal at Sentinel Grove Partners
 location: Charlotte, NC US
 profileImage:
   src: /img/derek-copeland-charlotte-nc-us.jpeg
-  alt: Derek Copeland - Principal at MCM Partners and Finance Expert
+  alt: Derek Copeland - Principal at Sentinel Grove Partners and Finance Expert
 siteUrl: https://www.about-derek-copeland.com/
 socialLinks:
   twitter:
