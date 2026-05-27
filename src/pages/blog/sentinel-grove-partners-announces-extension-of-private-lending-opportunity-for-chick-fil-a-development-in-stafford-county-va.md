@@ -38,20 +38,19 @@ Sentinel Grove is pleased to announce the extension of a private lending opportu
 CFA Financial Partners I, LLC (the “Lender”). The capital will be deployed to Garrisonville Road
 Realty, LLC (the “Borrower”) to fund the construction and development of a new Chick-fil-A
 restaurant located at a premier signalized intersection in Staﬀord County, Virginia.
+
+
 The project involves the development of a highly visible pad site at the intersection of
 Garrisonville Road (Route 610) and Shelton Shop Road. Positioned along one of Staﬀord
 County’s most bustling commercial corridors, the site ensures exceptional traﬃc visibility and
 accessibility. The location is strategically situated across from the Weis-anchored Parkside Plaza
-and North Staﬀord High School, which serves approximately 1,725 students.\
-\
-“We are incredibly excited to extend this private lending opportunity to our investors,” said
+and North Staﬀord High School, which serves approximately 1,725 students. “We are incredibly excited to extend this private lending opportunity to our investors,” said
 Derek L. Copeland, Principal of Sentinel Grove Partners. “Partnering on a project featuring a
 world-class tenant like Chick-fil-A allows us to provide our investors with access to a high-
 caliber asset in a high-growth market. This project perfectly aligns with our commitment to
 delivering precision-built investment opportunities that balance security with strong potential.”
 
-**Strategic Market: Staﬀord, Virginia**
-Staﬀord County represents a dynamic and growing region, strategically positioned between
+Strategic Market: Staﬀord, VirginiaStaﬀord County represents a dynamic and growing region, strategically positioned between
 Washington, D.C., and Richmond. Benefiting from excellent transportation access via I-95 and
 the Virginia Railway Express (VRE), Staﬀord has become a key hub for commuting professionals.
 The area boasts a robust economic profile, with a median household income of $136,885 and
