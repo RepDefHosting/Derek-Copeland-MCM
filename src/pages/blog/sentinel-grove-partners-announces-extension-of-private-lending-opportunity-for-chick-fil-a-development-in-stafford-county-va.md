@@ -32,7 +32,7 @@ blogButton:
   label: Home
   link: /
 ---
-**Charlotte, NC – February 23, 2026**\
+**Charlotte, NC – February 23, 2026**
 
 Sentinel Grove is pleased to announce the extension of a private lending opportunity through
 CFA Financial Partners I, LLC (the “Lender”). The capital will be deployed to Garrisonville Road
