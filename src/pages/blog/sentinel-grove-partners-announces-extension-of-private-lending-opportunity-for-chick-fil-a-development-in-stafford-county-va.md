@@ -39,7 +39,6 @@ CFA Financial Partners I, LLC (the “Lender”). The capital will be deployed t
 Realty, LLC (the “Borrower”) to fund the construction and development of a new Chick-fil-A
 restaurant located at a premier signalized intersection in Staﬀord County, Virginia.
 
-
 The project involves the development of a highly visible pad site at the intersection of
 Garrisonville Road (Route 610) and Shelton Shop Road. Positioned along one of Staﬀord
 County’s most bustling commercial corridors, the site ensures exceptional traﬃc visibility and
@@ -58,6 +57,8 @@ an average household income of $168,832—significantly exceeding national avera
 population of approximately 168,813 continues to grow at a steady annual rate of 1.73%.
 
 **About Chick-fil-A**
+
+
 Chick-fil-A is one of the largest fast-food chains in the United States, specializing in chicken-
 based meals. Founded in 1946 by Truett Cathy, the company has grown from its original
 Hapeville, Georgia, location into an industry leader with over 2,900 restaurants across 48 states,
@@ -65,6 +66,8 @@ Washington D.C., Canada, and Puerto Rico. Known for its customer-first approach 
 commitment to quality, the chain generates more than $6 billion in annual revenue.
 
 **About Sentinel Grove Partners**
+
+
 Sentinel Grove is a boutique investment firm that provides curated access to high-caliber
 commercial real estate, emerging private companies, and innovative fixed-income instruments.
 With a philosophy centered on "Growth Protected," the firm focuses on reducing barriers and
@@ -74,6 +77,8 @@ achieve long-term wealth growth through a reimagined, precision-driven investmen
 experience.
 
 **Media Contact**
+
+
 Amanda Parrish, Director of Investor Relations
 Email: aparrish@sentinelgrovepartners.com
 Website: sentinelgrovepartners.com
