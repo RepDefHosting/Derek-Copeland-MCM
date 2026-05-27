@@ -12,7 +12,7 @@ featuredImage:
   src: /img/businesshero2.png
   alt: Hero Image
   caption: null
-connectWithMe: State
+connectWithMe: North Carolina
 pageContent: >-
   # Heading line here
 
@@ -56,7 +56,7 @@ subheader: null
 blogButton:
   label: Blog
   link: /blog
-discoverConnectExplore: City
+discoverConnectExplore: Charlotte
 longBiography_MD: |
   {{long_biography}}
 ---
